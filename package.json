@@ -1,0 +1,25 @@
+{
+  "name": "wawsearch",
+  "version": "1.0.0",
+  "description": "Worth-a-Watch's Search Microservice",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npm run test -- --coverage "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dunder-Mifflin-Devs/WaWSearch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dunder-Mifflin-Devs/WaWSearch/issues"
+  },
+  "homepage": "https://github.com/Dunder-Mifflin-Devs/WaWSearch#readme",
+  "devDependencies": {
+    "jest": "^29.6.3"
+  }
+}
